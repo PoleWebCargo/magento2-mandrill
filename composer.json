@@ -1,5 +1,5 @@
 {
-    "name": "ebizmarts/magento2-mandrill",
+    "name": "cargo/magento2-mandrill",
     "autoload": {
         "psr-4": {"Ebizmarts\\Mandrill\\":""},
         "files": ["registration.php"]
